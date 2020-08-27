@@ -20,3 +20,12 @@
 .externalNativeBuild
 /target/
 *.jar
+*.db
+*.ini
+/config/
+/interface/api/Slim/
+/interface/api/vendor/
+db.php
+db_externo.php
+/mail/
+composer.lock
