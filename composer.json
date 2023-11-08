@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "monolog/monolog": "1.2.*",
+        "oscarotero/psr7-middlewares": "^3.19",
+        "tuupola/slim-basic-auth": "^2.2"
+
+    }
+}
